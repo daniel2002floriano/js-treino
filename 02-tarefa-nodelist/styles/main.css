@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    background-color: #1d69b5;
+    color: #333;
+}
+
+section.container {
+    width: 600px;
+    max-width: 100%;
+    text-align: center;
+    padding: 20px;
+    margin: 50px auto;
+    background-color: #ffffff;
+    
+}
+
+section.container p {
+    font-size: 1.2rem;
+}

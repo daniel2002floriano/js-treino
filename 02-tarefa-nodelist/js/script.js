@@ -1,3 +1,4 @@
+// 
 const paragrafos = document.querySelector('.paragrafos');
 const p = paragrafos.querySelectorAll('p');
 
@@ -6,7 +7,7 @@ const p = paragrafos.querySelectorAll('p');
 // Não tem todos os métodos de um array, como o map, filter e reduce
 
 
-// getComputedStyle() retorna TODOS os estilos aplicados a um elemento
+// getComputedStyle() retorna TODOS os estilos aplicados a um elementos
 const estiloBody = getComputedStyle(document.body);
 
 // Extrai apenas a cor de fundo do objeto de estilos

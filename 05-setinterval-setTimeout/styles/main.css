@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+div.container-relogio {
+    background-color: rgb(172, 179, 161);
+    width: 600px;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+div.container-relogio #hudRelogio {
+    font-size: 8em;
+    display: block;
+    text-align: center;
+}
+
+div.container-relogio button {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+.vermelho {
+    color: #ff0000;
+}
+
+.preto {
+    color: #000000;
+}
